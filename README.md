@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ahmed Gamal 👋
 
-<!--
-**ahmedgamal21/ahmedgamal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** based in Kuwait, with 3+ years in e-commerce across 6 fashion brands.
+I turn sales, inventory and web data into business decisions.
 
-Here are some ideas to get you started:
+### 🛠 Tools
+SQL · Power Query · Power BI (DAX, Data Modeling) · Excel · GA4 · Python · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Projects
+| Project | Domain | Tools |
+|---|---|---|
+| Coming soon: Sales Performance | Sales | SQL · Power BI |
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/ahmed-gamal-76321925a/)
